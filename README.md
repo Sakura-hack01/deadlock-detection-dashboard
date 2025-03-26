@@ -14,5 +14,5 @@ A web application to detect deadlocks in a system using graphs and charts. Built
 3. Run `npm start` in the `backend` folder to start the backend server.
 4. Run `npm start` in the `frontend` folder to start the frontend.
 
-## License
+## Li
 MIT License
