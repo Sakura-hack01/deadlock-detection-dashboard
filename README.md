@@ -6,7 +6,7 @@ A web application to detect deadlocks in a system using graphs and charts. Built
 - Visualizes node distribution with a pie chart.
 - Displays statistics with a bar chart.
 - Shows resource allocation over time with a line chart.
-- Detects deadlock cycles and generates a 
+- Detects deadlock cycles and generates a graph.
 
 ## Setup
 1. Clone the repository.
