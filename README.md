@@ -1,4 +1,4 @@
-# Deadlock Detection Dashboard
+# Deadlock Detection 
 
 A web application to detect deadlocks in a system using graphs and charts. Built with React, Tailwind CSS, and Node.js.
 
